@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-size: 16px;
+    font-family: 'Open Sans';
+    width: 1440px;
+    background-color: hsl(257, 40%, 49%);
+    background-image: url(images/bg-desktop.svg);
+    background-repeat: no-repeat;
+}
+
+.container{
+    display: inline-flex;
+    align-items: center;
+
+}
+ 
+#ilustracao{
+
+}
+
+.text-block{
+
+}
+
+#button{
+
+}
+
+
+/*---------------------------------------------------*/
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
