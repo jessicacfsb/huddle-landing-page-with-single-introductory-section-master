@@ -16,6 +16,14 @@ body{
 
 }
 
+#huddle{
+    position: absolute;
+    top: 50px;
+    left: 65px;
+    height: 55px;
+
+}
+
 .text-block{
     color: hsl(0, 100%, 100%);
     padding: 60px;
