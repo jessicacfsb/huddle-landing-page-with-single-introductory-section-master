@@ -54,6 +54,10 @@ body{
     border-radius: 80px;    
 }
 
+#twitter{
+    fill: hsl(0, 0%, 100%);
+}
+
 
 /*---------------------------------------------------*/
 .attribution {  color: hsl(0, 100%, 100%); font-size: 11px; text-align: center;
